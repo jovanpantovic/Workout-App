@@ -1,0 +1,40 @@
+{
+    "excercises": [
+        {
+            "id": "1",
+            "name": "Pushups",
+            "url": "https://www.youtube.com/watch?v=IODxDxX7oi4"
+        },
+        {
+            "id": "2",
+            "name": "Pull-Up",
+            "url": "https://www.youtube.com/watch?v=eGo4IYlbE5g"
+        },
+        {
+            "id": "3",
+            "name": "Squats",
+            "url": "https://www.youtube.com/watch?v=gsNoPYwWXeM"
+        }
+    ],
+    "workouts": [
+        {
+            "id": "1",
+            "name": "Build up Strength",
+            "excercises": [{
+                "id": "1",
+                "name": "Pushups",
+                "url": "https://www.youtube.com/watch?v=IODxDxX7oi4"
+            },
+            {
+                "id": "2",
+                "name": "Pull-Up",
+                "url": "https://www.youtube.com/watch?v=eGo4IYlbE5g"
+            },
+            {
+                "id": "3",
+                "name": "Squats",
+                "url": "https://www.youtube.com/watch?v=gsNoPYwWXeM"
+            }]
+        }
+    ]
+}
